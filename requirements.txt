@@ -1,0 +1,11 @@
+names_dataset
+nltk
+numpy
+pandas
+radboud_el
+REL
+scikit_learn
+scipy
+wikipedia2vec
+word2number
+gensim
