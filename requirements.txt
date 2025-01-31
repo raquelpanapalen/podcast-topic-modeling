@@ -9,3 +9,4 @@ scipy
 wikipedia2vec
 word2number
 gensim
+langdetect
